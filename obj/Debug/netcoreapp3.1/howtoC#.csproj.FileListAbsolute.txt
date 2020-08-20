@@ -1,0 +1,13 @@
+C:\Users\juanv\Desktop\Juan\códigos\C_afiado\howtoC#\bin\Debug\netcoreapp3.1\howtoC#.exe
+C:\Users\juanv\Desktop\Juan\códigos\C_afiado\howtoC#\bin\Debug\netcoreapp3.1\howtoC#.deps.json
+C:\Users\juanv\Desktop\Juan\códigos\C_afiado\howtoC#\bin\Debug\netcoreapp3.1\howtoC#.runtimeconfig.json
+C:\Users\juanv\Desktop\Juan\códigos\C_afiado\howtoC#\bin\Debug\netcoreapp3.1\howtoC#.runtimeconfig.dev.json
+C:\Users\juanv\Desktop\Juan\códigos\C_afiado\howtoC#\bin\Debug\netcoreapp3.1\howtoC#.dll
+C:\Users\juanv\Desktop\Juan\códigos\C_afiado\howtoC#\bin\Debug\netcoreapp3.1\howtoC#.pdb
+C:\Users\juanv\Desktop\Juan\códigos\C_afiado\howtoC#\obj\Debug\netcoreapp3.1\howtoC#.csprojAssemblyReference.cache
+C:\Users\juanv\Desktop\Juan\códigos\C_afiado\howtoC#\obj\Debug\netcoreapp3.1\howtoC#.AssemblyInfoInputs.cache
+C:\Users\juanv\Desktop\Juan\códigos\C_afiado\howtoC#\obj\Debug\netcoreapp3.1\howtoC#.AssemblyInfo.cs
+C:\Users\juanv\Desktop\Juan\códigos\C_afiado\howtoC#\obj\Debug\netcoreapp3.1\howtoC#.csproj.CoreCompileInputs.cache
+C:\Users\juanv\Desktop\Juan\códigos\C_afiado\howtoC#\obj\Debug\netcoreapp3.1\howtoC#.dll
+C:\Users\juanv\Desktop\Juan\códigos\C_afiado\howtoC#\obj\Debug\netcoreapp3.1\howtoC#.pdb
+C:\Users\juanv\Desktop\Juan\códigos\C_afiado\howtoC#\obj\Debug\netcoreapp3.1\howtoC#.genruntimeconfig.cache
